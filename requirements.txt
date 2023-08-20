@@ -1,0 +1,4 @@
+hdt==2.3
+pybind11==2.2.4
+rdflib==6.3.2
+rdflib-hdt==3.1
