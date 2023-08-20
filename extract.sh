@@ -1,0 +1,9 @@
+bzip2 -d persondata_en.ttl.bz2
+bzip2 -d labels_en.ttl.bz2
+bzip2 -d specific_mappingbased_properties_en.ttl.bz2
+bzip2 -d category_labels_en.ttl.bz2 
+bzip2 -d instance_types_en.ttl.bz2
+bzip2 -d instance_types_transitive_en.ttl.bz2
+bzip2 -d mappingbased_literals_en.ttl.bz2
+bzip2 -d mappingbased_objects_en.ttl.bz2
+bzip2 -d infobox_properties_en.ttl.bz2

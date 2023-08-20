@@ -1,0 +1,9 @@
+wget https://downloads.dbpedia.org/2015-10/core-i18n/en/category_labels_en.ttl.bz2  
+wget https://downloads.dbpedia.org/2015-10/core-i18n/en/infobox_properties_en.ttl.bz2  
+wget https://downloads.dbpedia.org/2015-10/core-i18n/en/instance_types_en.ttl.bz2
+wget https://downloads.dbpedia.org/2015-10/core-i18n/en/instance_types_transitive_en.ttl.bz2
+wget https://downloads.dbpedia.org/2015-10/core-i18n/en/labels_en.ttl.bz2
+wget https://downloads.dbpedia.org/2015-10/core-i18n/en/mappingbased_literals_en.ttl.bz2
+wget https://downloads.dbpedia.org/2015-10/core-i18n/en/mappingbased_objects_en.ttl.bz2
+wget https://downloads.dbpedia.org/2015-10/core-i18n/en/persondata_en.ttl.bz2
+wget https://downloads.dbpedia.org/2015-10/core-i18n/en/specific_mappingbased_properties_en.ttl.bz2
